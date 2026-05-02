@@ -2,7 +2,6 @@
 
 - **Playwright**
 - **Allure Report**
-- **CI / CD**
 
 ## ▶️ How to Run the Test
 
